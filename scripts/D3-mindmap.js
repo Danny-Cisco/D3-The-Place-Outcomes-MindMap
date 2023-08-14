@@ -1,6 +1,6 @@
 
   
-chart = {
+function createChart() {
 
   // At the start of your chart function, select the slider and listen for change events
 const slider = d3.select("#spacing-slider");
