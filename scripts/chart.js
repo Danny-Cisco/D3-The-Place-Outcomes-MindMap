@@ -13,8 +13,11 @@ function createChart(data) {
     updateSpacing();
   });
   
+  const width = window.innerWidth || document.documentElement.clientWidth;
+const heightVH = window.innerHeight || document.documentElement.clientHeight;
+
   
-    const width = 1200;
+    //const width = 1200;
     const marginTop = 200;
     const marginRight = 100;
     const marginBottom = 200;
@@ -33,7 +36,8 @@ function createChart(data) {
     const svg = d3.select("body").append("svg")
 
       .attr("width", width)
-      .attr("height", dx)
+      .attr("height", heightVH)
+      //.attr("height", dx)
       .attr("viewBox", [-marginLeft, -marginTop, width, dx])
       .attr("style", "max-width: 100%; height: auto; font: 10px sans-serif; user-select: none;")
       .call(d3.zoom().scaleExtent([0.5, 5]).on("zoom", zoomed));
