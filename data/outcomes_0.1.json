@@ -1,0 +1,71 @@
+{  
+  "name": "IPO the Company",  
+  "children": [
+
+   {
+    "name": "Raise 50M in Series B @ 1B Valuation",
+    "children": [
+  
+     {
+      "name": "Raise 10M in Series A @ 100M Valuation",
+      "children": [
+       {
+        "name": "Raise 1M in seed round @ 10M Valuation",
+        "children": [
+          {
+            "name": "The right network to get thru the door"
+          },
+          {
+            "name": "Ship the Web Based MVP"
+          },
+          {
+            "name": "A great Figma Prototype to show the vision"
+          },
+          {
+            "name": "The basics of a good company"
+          },
+          {
+            "name": "A really good investor deck"
+          }
+          
+        ]
+       },
+       {
+        "name": "Push the envelope of human feel"
+       },
+       {
+        "name": "Develop protectable and saleable IP for the place"
+       },
+       {
+        "name": "Being a actual Company"
+       }        
+      ]
+     },       
+     {
+      "name": "Fill C Team with Amazing People"
+    
+     },        
+     {
+      "name": "Launch a Hardware Range"
+     }     
+    ]  
+   },
+   {   
+    "name": "Popularise our vision for information, work, life",    
+    "children": [      
+       {       
+        "name": "Publish Book - The Human Theory of Information"       
+       },
+
+       {       
+        "name": "Popularise Reductive Linguistic Navigation (inc better name)"       
+       }, 
+
+       {       
+        "name": "Popularise the Universal Obiect"      
+       }       
+      ]     
+     }
+     
+  ]
+}
