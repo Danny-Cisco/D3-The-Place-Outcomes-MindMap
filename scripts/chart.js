@@ -1,6 +1,9 @@
 
   
-function createChart() {
+function createChart(data) {
+
+  
+    
 
     // At the start of your chart function, select the slider and listen for change events
   const slider = d3.select("#spacing-slider");
@@ -27,7 +30,8 @@ function createChart() {
     const tree = d3.tree().nodeSize([dx, dy]);
     const diagonal = d3.linkHorizontal().x(d => d.y).y(d => d.x);
   
-    const svg = d3.create("svg")
+    const svg = d3.select("body").append("svg")
+
       .attr("width", width)
       .attr("height", dx)
       .attr("viewBox", [-marginLeft, -marginTop, width, dx])
