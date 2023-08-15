@@ -1,7 +1,6 @@
 {
   "name": "4-way meeting",
   "children": [
-    
     {
       "name": "Mark's priorities",
       "children": [
@@ -9,7 +8,7 @@
           "name": "Emails",
           "children": [
             {
-              "name": "Emails not working",
+              "name": "Emails not working"
             },
             {
               "name": "Getting emails into The Place"
@@ -29,7 +28,7 @@
               "name": "Needing to give permission for mic on iOS"
             },
             {
-              "name": "Options after recording: send to inbox, mark as action, send meeting minutes" 
+              "name": "Options after recording: send to inbox, mark as action, send meeting minutes"
             }
           ]
         },
@@ -44,8 +43,8 @@
       ]
     },
     {
-    "name": "Structural discussions",
-    "children": [
+      "name": "Structural discussions",
+      "children": [
         {
           "name": "Relationship between outcomes and to-dos",
           "children": [
@@ -53,26 +52,26 @@
               "name": "Option 1: Single tree structure",
               "children": [
                 {
-                  "name": "Pro: Shows full relationship hierarchy",
+                  "name": "Pro: Shows full relationship hierarchy"
                 },
                 {
                   "name": "Con: Can become too granular and overwhelming"
                 }
-              ]   
+              ]
             },
             {
               "name": "Option 2: Tree structure with layers",
               "children": [
                 {
-                  "name": "Layer 1: Outcomes",
+                  "name": "Layer 1: Outcomes"
                 },
                 {
-                  "name": "Layer 2: Responsible parties",
+                  "name": "Layer 2: Responsible parties"
                 },
                 {
-                  "name": "Layer 3: To-dos",
+                  "name": "Layer 3: To-dos"
                 }
-              ]   
+              ]
             },
             {
               "name": "Option 3: Distinct but connected",
@@ -82,7 +81,7 @@
                 },
                 {
                   "name": "Preserves some hierarchy"
-                }            
+                }
               ]
             }
           ]
@@ -94,18 +93,18 @@
               "name": "Horizontal vs vertical layout",
               "children": [
                 {
-                  "name": "Horizontal: Can see everything at once but long text problematic",
+                  "name": "Horizontal: Can see everything at once but long text problematic"
                 },
                 {
-                  "name": "Vertical: Easier to read text but need to scroll to see all"   
-                }            
+                  "name": "Vertical: Easier to read text but need to scroll to see all"
+                }
               ]
             },
             {
               "name": "Using D3.js to customise node components"
             },
-            {  
-              "name": "Making the visualization interactive to affect database"  
+            {
+              "name": "Making the visualization interactive to affect database"
             }
           ]
         }
@@ -126,10 +125,10 @@
           ]
         },
         {
-          "name": "Discord bot to capture meetings",
+          "name": "Discord bot to capture meetings"
         },
         {
-          "name": "Improving redaction tool",
+          "name": "Improving redaction tool"
         }
       ]
     },
@@ -137,7 +136,7 @@
       "name": "Switching Mark to using The Place",
       "children": [
         {
-          "name": "Goal: Have Mark exclusively using The Place by next Wednesday",
+          "name": "Goal: Have Mark exclusively using The Place by next Wednesday"
         },
         {
           "name": "Will properly test the system"
