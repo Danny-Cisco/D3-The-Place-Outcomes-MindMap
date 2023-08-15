@@ -27,7 +27,7 @@ const heightVH = window.innerHeight || document.documentElement.clientHeight;
     const dx = 25;
 
     const isMobile = window.innerWidth <= 768; 
-    const spacingFactorMobile = isMobile ? 2.5 : 1;  // adjust values as needed
+    const spacingFactorMobile = isMobile ? 5 : 1;  // adjust values as needed
 
   
     let spacingFactor = 1.7 * spacingFactorMobile; // Adjust as needed
@@ -216,7 +216,7 @@ const heightVH = window.innerHeight || document.documentElement.clientHeight;
   
   
   function updateSpacing() {
-    const newDy = spacingFactor * (width - marginRight - marginLeft) / (1 + root.height);
+    const newDy = spacingFactor * spacingFactorMobile * (width - marginRight - marginLeft) / (1 + root.height);
     tree.nodeSize([dx, newDy]);
     update(null, root);
   }
