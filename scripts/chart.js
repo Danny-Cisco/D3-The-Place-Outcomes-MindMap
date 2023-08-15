@@ -27,7 +27,7 @@ const heightVH = window.innerHeight || document.documentElement.clientHeight;
     const dx = 25;
 
     const isMobile = window.innerWidth <= 768; 
-    const spacingFactorMobile = isMobile ? 5 : 1;  // adjust values as needed
+    const spacingFactorMobile = isMobile ? 10 : 1;  // adjust values as needed
 
   
     let spacingFactor = 1.7 * spacingFactorMobile; // Adjust as needed
