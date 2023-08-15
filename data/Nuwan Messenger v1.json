@@ -1,0 +1,325 @@
+{
+  "name": "Conversation",  
+  "children": [
+   {
+    "name": "Product design strategies",
+    "children": [
+     {
+      "name": "Predator",
+      "children": [
+       {
+        "name": "Completely bankrupt consumer",
+        "children": [
+         {
+          "name": "Kill prey"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Parasite",
+      "children": [
+       {
+        "name": "Extract value over long period",
+        "children": [
+         {
+          "name": "Low value subscription"
+         }
+        ]
+       },
+       {
+        "name": "Low value subscription",
+        "children": [
+         {
+          "name": "Designed to make big one-off dent"
+         },
+         {
+          "name": "No benefit to prey"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Symbiote",
+      "children": [
+       {
+        "name": "Return value in proportion to investment",
+        "children": [
+         {
+          "name": "Neutral"
+         }
+        ]
+       },
+       {
+        "name": "1:1 situation",
+        "children": [
+         {
+          "name": "Investment less, value gained more"
+         },
+         {
+          "name": "Revolutionize life"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Ultimate gift",
+      "children": [
+       {
+        "name": "So accessible and beneficial",
+        "children": [
+         {
+          "name": "Asymptotically benefit is resurrection"
+         },
+         {
+          "name": "Song bestowing coherence"
+         }
+        ]
+       },
+       {
+        "name": "Instant resurrection"
+       },
+       {
+        "name": "Song bestowing absolute coherence",
+        "children": [
+         {
+          "name": "Inner and outer universe"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Company ideas",
+    "children": [
+     {
+      "name": "Essential ubiquitous app",
+      "children": [
+       {
+        "name": "Micropayments",
+        "children": [
+         {
+          "name": "Within everyone's reach"
+         },
+         {
+          "name": "Scaling in early days"
+         }
+        ]
+       },
+       {
+        "name": "Within everyone's reach"
+       },
+       {
+        "name": "Scaling in early days"
+       },
+       {
+        "name": "Profits fund research centers",
+        "children": [
+         {
+          "name": "Specializing in disciplines"
+         },
+         {
+          "name": "Creators travel and collaborate"
+         },
+         {
+          "name": "Paid to travel and improve organization"
+         },
+         {
+          "name": "Global optimism"
+         }
+        ]
+       },
+       {
+        "name": "Specializing in disciplines"
+       },
+       {
+        "name": "Creators travel and collaborate"
+       },
+       {
+        "name": "Paid to travel and improve organization"
+       },
+       {
+        "name": "Global optimism"
+       }
+      ]
+     },
+     {
+      "name": "Efficient company",
+      "children": [
+       {
+        "name": "Operate with learning goals"
+       },
+       {
+        "name": "Without scarcity constraints"
+       }
+      ]
+     },
+     {
+      "name": "290 million cent product",
+      "children": [
+       {
+        "name": "2.9 million dollars"
+       },
+       {
+        "name": "Too good to be true"
+       }
+      ]
+     },
+     {
+      "name": "4 cent Australia service",
+      "children": [
+       {
+        "name": "1M per year as long as relevant"
+       }
+      ]
+     },
+     {
+      "name": "25 year 1 dollar investment",
+      "children": "Lottery seed capital"
+       },
+       {
+        "name": "Agile MVP ventures",
+        "children": [
+         {
+          "name": "Portfolio effect"
+         },
+         {
+          "name": "Modular housing system"
+         },
+         {
+          "name": "Zen pod ambience"
+         },
+         {
+          "name": "Speaker systems"
+         },
+         {
+          "name": "Nice bathrooms"
+         },
+         {
+          "name": "Air BnBs"
+         },
+         {
+          "name": "Retreat service contract"
+         },
+         {
+          "name": "Renewable power integration"
+         },
+         {
+          "name": "Modular"
+         }
+        ]
+       },
+       {
+        "name": "Portfolio effect"
+       },
+       {
+        "name": "Modular housing system"
+       },
+       {
+        "name": "Zen pod ambience"
+       },
+       {
+        "name": "Speaker systems"
+       },
+       {
+        "name": "Nice bathrooms"
+       },
+       {
+        "name": "Air BnBs"
+       },
+       {
+        "name": "Retreat service contract"
+       },
+       {
+        "name": "Renewable power integration"
+       },
+       {
+        "name": "Modular"
+       }
+      ]
+     },
+     {
+      "name": "Farming app",
+      "children": [
+       {
+        "name": "Field analysis",
+        "children": [
+         {
+          "name": "Raspberry pi drone system"
+         },
+         {
+          "name": "AI assisted decision making"
+         },
+         {
+          "name": "Environmental inputs"
+         },
+         {
+          "name": "Weather predictions"
+         },
+         {
+          "name": "Crop demand predictions"
+         },
+         {
+          "name": "Decision making lens"
+         },
+         {
+          "name": "Drag and drop lens designer"
+         },
+         {
+          "name": "Generate lens for decision process"
+         },
+         {
+          "name": "Optimise for abc"
+         },
+         {
+          "name": "Colin lens speech synth profile"
+         },
+         {
+          "name": "Per lens speech synth profile"
+         }
+        ]
+       },
+       {
+        "name": "Raspberry pi drone system"
+       },
+       {
+        "name": "AI assisted decision making"
+       },
+       {
+        "name": "Environmental inputs"
+       },
+       {
+        "name": "Weather predictions"
+       },
+       {
+        "name": "Crop demand predictions"
+       },
+       {
+        "name": "Decision making lens"
+       },
+       {
+        "name": "Drag and drop lens designer"
+       },
+       {
+        "name": "Generate lens for decision process"
+       },
+       {
+        "name": "Optimise for abc"
+       },
+       {
+        "name": "Colin lens speech synth profile"
+       },
+       {
+        "name": "Per lens speech synth profile"
+       }
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,212 @@
+{
+  "name": "Conversation",
+  "children": [
+    {
+      "name": "Product design strategies as animal behaviors",
+      "children": [
+        {
+          "name": "Predator product seeks bankruptcy",
+          "children": [
+            {
+              "name": "Kills consumer completely"
+            }
+          ]
+        },
+        {
+          "name": "Prey product takes single limb", 
+          "children": [
+            {
+              "name": "One-off value extraction"
+            }
+          ]
+        },
+        {
+          "name": "Parasite product low value over time",
+          "children": [
+            {
+              "name": "Subscription extracts slowly"
+            }
+          ]
+        },
+        {
+          "name": "Symbiote product 1:1 value ratio",
+          "children": [
+            {
+              "name": "Neutral mutual benefit"
+            }
+          ] 
+        },
+        {
+          "name": "Better symbiote more value than cost",
+          "children": [
+            {
+              "name": "Subscription revolutionizes life" 
+            }
+          ]
+        },
+        {
+          "name": "Ultimate symbiote free universal benefit",
+          "children": [
+            {
+              "name": "Resurrection or enlightenment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Micropayment ubiquity possibilities",
+      "children": [
+        {
+          "name": "App everyone uses once a year for 4c",
+          "children": [
+            {
+              "name": "$1M revenue potential per year"
+            },
+            {
+              "name": "Transaction taxes interfere"
+            }
+          ]
+        },
+        {
+          "name": "25 year $1 investment product",
+          "children": [
+            {
+              "name": "Seed funding lottery concept"
+            } 
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modular housing and farming apps",
+      "children": [
+        {
+          "name": "Sustainable modular housing systems",
+          "children": [
+            {
+              "name": "AirBnB and retreat centers"
+            },
+            {
+              "name": "Renewable power integration"
+            }
+          ]
+        },
+        {
+          "name": "Farming and field analysis apps",  
+          "children": [
+            {
+              "name": "Sensor drone systems"
+            },
+            {
+              "name": "Weather and demand predictions"
+            },
+            {
+              "name": "AI assisted decision making"
+            }
+          ]
+        },
+        {
+          "name": "Drag and drop lens designer",
+          "children": [
+            {
+              "name": "Generate lenses for decisions" 
+            },
+            {
+              "name": "Voice profiles for lenses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collective hallucination meetings",
+      "children": [
+        {
+          "name": "Group dreaming in VR",
+          "children": [
+            {
+              "name": "Riffing on shared visual output"
+            },
+            {
+              "name": "Achieving consensus state"
+            } 
+          ]
+        },
+        {
+          "name": "Neural prosthesis sensory override",  
+          "children": [
+            {
+              "name": "Emulate and inject signals"
+            },
+            {
+              "name": "Bypass processing layer"
+            },
+            {
+              "name": "Potential for misuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resume as node graph",
+      "children": [
+        {
+          "name": "Skill hash for team matching",
+          "children": [
+            {
+              "name": "AI measures focus vs diversity"
+            }
+          ]
+        },
+        {
+          "name": "Dynamic summaries and exports",
+          "children": [
+            {
+              "name": "HTML, PDF, JSON formats"
+            }
+          ]
+        },
+        {
+          "name": "Job application simulation",  
+          "children": [
+            {
+              "name": "Suggestions to compensate weaknesses"
+            }
+          ]
+        },
+        {
+          "name": "Ethical implications",
+          "children": [
+            {
+              "name": "Where to draw the line"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crazytown Butterfly as pop song",
+      "children": [
+        {
+          "name": "Likely ludicrous lyrics"
+        }  
+      ]
+    },
+    {
+      "name": "Rave narrative DJ set concepts",
+      "children": [
+        {
+          "name": "Spoken journey across songs"
+        },
+        {
+          "name": "Utopian BBQ party tale"
+        },
+        {
+          "name": "Darude - Sandstorm inclusion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+
+{
+  "name": "Conversation",
+  "children": [
+    {
+      "name": "Product design strategies",
+      "children": [
+        {
+          "name": "Predator design",
+          "children": [
+            {
+              "name": "Completely bankrupting the consumer"
+            }
+          ]
+        },
+        {
+          "name": "Single limb harvest", 
+          "children": [
+            {
+              "name": "One-off profit without ongoing benefit"
+            }
+          ]
+        },
+        {
+          "name": "Parasitic design",
+          "children": [
+            {
+              "name": "Extracting low value over long period like subscription"
+            }
+          ]
+        },
+        {
+          "name": "Symbiotic design",
+          "children": [
+            {
+              "name": "1:1 investment to value ratio like neutral symbiote" 
+            },
+            {
+              "name": "Decreasing investment increases consumer value"
+            }
+          ]
+        },
+        {
+          "name": "Ultimate gift design",
+          "children": [
+            {
+              "name": "So accessible and beneficial it's like resurrection" 
+            },
+            {
+              "name": "Song that bestows inner coherence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ubiquitous low-cost services",
+      "children": [
+        {
+          "name": "Micropayment app used by all on earth",
+          "children": [
+            {
+              "name": "Company funds global research network"
+            }
+          ]
+        }  
+      ]
+    },
+    {
+      "name": "Lottery system in Manna",
+      "children": [
+        {
+          "name": "Everyone invests small amount hoping to multiply wealth",
+          "children": [
+            {
+              "name": "Even panhandlers interested in long games"
+            } 
+          ]
+        }
+      ] 
+    },
+    {
+      "name": "Research centers as philanthropic investment",
+      "children": [
+        {  
+          "name": "Centers specialize in disciplines",
+          "children": [
+            {
+              "name": "Scientists circuit between traveling slowly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Optimistic goals without scarcity constraints",
+      "children": [
+        {
+          "name": "Goals of learning, collaboration and improving organization"
+        }
+      ]
+    },
+    {
+      "name": "Facebook user base potential",
+      "children": [
+        {
+          "name": "If 290m people used a $0.01 product once a year that's $2.9m"
+        }  
+      ]
+    },
+    {
+      "name": "Australian transaction tax interference",
+      "children": [
+        {
+          "name": "Taxes interfere with micropayment-based ideas"
+        }
+      ]
+    },
+    {
+      "name": "25 year $1 investment product", 
+      "children": [
+        {
+          "name": "Getting lifetime investment for only $1"
+        }
+      ]
+    },
+    {
+      "name": "Causes people believe will multiply wealth and joy",
+      "children": [ 
+        {
+          "name": "Most would donate $2 to such a cause"
+        }
+      ]
+    },
+    {
+      "name": "Seed capital from money-raising campaigns",
+      "children": [
+        {  
+          "name": "Workshop ventures in agile MVP way to see which float"
+        }
+      ]
+    },
+    {
+      "name": "Sustainable modular housing as prototype",
+      "children": [
+        {
+          "name": "Make some into airbnbs then retreats under service contract" 
+        }  
+      ]
+    },
+    {
+      "name": "Farming optimization apps",
+      "children": [
+        {
+          "name": "Field analysis using sensors and AI-assisted decision making"
+        }
+      ]
+    },
+    {
+      "name": "Lens designer for decision making tools", 
+      "children": [
+        {
+          "name": "Drag and drop lens creation or ask AI to generate"
+        },
+        {  
+          "name": "AI assigns voice persona to lens"
+        }
+      ]
+    },
+    {
+      "name": "Machine-assisted dreaming",
+      "children": [
+        {
+          "name": "Groups collectively hallucinating future together"
+        },
+        {
+          "name": "Direct sensory/optic nerve signal injection" 
+        }
+      ]
+    },
+    {
+      "name": "Rave party spoken word narrative", 
+      "children": [
+        {
+          "name": "Utopian story embedded across music set"
+        }
+      ]
+    },
+    {
+      "name": "Resume as node graph",
+      "children": [
+        {
+          "name": "AI generates skill hashes for team matching"
+        }  
+      ]
+    },
+    {
+      "name": "Psyop cover letter suggestions",  
+      "children": [
+        {
+          "name": "Compensate for skill/experience deficiencies humorously"
+        }
+      ]
+    },
+    {
+      "name": "Butterfly by Crazytown",
+      "children": [
+        {
+          "name": "One of the best pop songs despite lyrics"
+        }
+      ]
+    }
+  ]
+}

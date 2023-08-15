@@ -1,0 +1,168 @@
+{
+  "name": "Conversation",
+  "children": [
+    {
+      "name": "Product design strategies",
+      "children": [
+        {
+          "name": "Predator strategy",
+          "children": [
+            {
+              "name": "Completely bankrupting the consumer"
+            }
+          ]
+        },
+        {
+          "name": "Single limb harvest strategy", 
+          "children": [
+            {
+              "name": "Making a one-time large profit without ongoing benefits"
+            }
+          ]
+        },
+        {
+          "name": "Parasite strategy",
+          "children": [
+            {
+              "name": "Extracting value over a long period through low value subscriptions"
+            }
+          ]
+        },
+        {
+          "name": "Symbiotic strategy",
+          "children": [
+            {
+              "name": "Returning proportional value to investment in a neutral relationship" 
+            }
+          ]
+        },
+        {
+          "name": "Beneficial symbiotic strategy",
+          "children": [
+            {
+              "name": "Returning disproportionately higher value for lower investment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business models",
+      "children": [
+        {
+          "name": "Mass adoption models",
+          "children": [
+            {
+              "name": "Micropayment model for ubiquitous essential service"
+            },
+            {
+              "name": "Profit funding research centers to improve service"
+            }
+          ]
+        },
+        {
+          "name": "Collaboration models",
+          "children": [
+            {
+              "name": "Scientists and creators collaborating across research centers"
+            } 
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product ideas",
+      "children": [
+        {
+          "name": "Farming apps",
+          "children": [
+            {
+              "name": "Field analysis using sensors and AI"
+            },
+            {
+              "name": "AI-assisted farm decision making"
+            }
+          ]
+        },
+        {  
+          "name": "Modular housing",
+          "children": [
+            {
+              "name": "Sustainable modular designs"
+            },
+            {
+              "name": "Integrating renewable power"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public speaking",
+      "children": [
+        {
+          "name": "Filler words analysis",
+          "children": [
+            {
+              "name": "Counting ums and ahhs"
+            }
+          ]
+        },
+        {
+          "name": "Sentiment analysis",
+          "children": [
+            {
+              "name": "Analyzing smiles in pre-fight media"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dream sharing",
+      "children": [
+        {
+          "name": "Collectively hallucinating the future in VR meetings"
+        },
+        {
+          "name": "Private and group dreaming states"
+        },
+        {
+          "name": "Machine assisted dreaming"
+        },
+        {
+          "name": "Direct sensory signal manipulation"
+        }
+      ]
+    },
+    {
+      "name": "Connections",
+      "children": [
+        {
+          "name": "Product strategies and business models",
+          "children": [
+            {
+              "name": "Parasitic strategy connecting to subscription model"
+            }
+          ]
+        },
+        {
+          "name": "Public speaking and sentiment analysis",
+          "children": [
+            {
+              "name": "Analyzing nonverbal cues and emotions"
+            }
+          ]
+        },
+        {
+          "name": "Dream sharing and product ideation",  
+          "children": [
+            {
+              "name": "Collectively envisioning new ideas and solutions"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

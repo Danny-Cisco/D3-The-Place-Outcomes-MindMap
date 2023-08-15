@@ -1,0 +1,148 @@
+{
+  "name": "Conversation",
+  "children": [
+    {
+      "name": "Product design strategies",
+      "children": [
+        {
+          "name": "Predator strategy",
+          "children": [
+            {
+              "name": "Completely bankrupting the consumer"
+            }
+          ]
+        },
+        {
+          "name": "Prey strategy", 
+          "children": [
+            {
+              "name": "Harvesting a single limb/making a one-off dent"
+            }
+          ]
+        },
+        {
+          "name": "Parasite strategy",
+          "children": [
+            {
+              "name": "Extracting value over a long period through low value subscriptions" 
+            }
+          ]
+        },
+        {
+          "name": "Symbiote strategy",
+          "children": [
+            {
+              "name": "Returning value in proportion to investment (1:1)"
+            },
+            {
+              "name": "Returning disproportionately higher value for lower investment"
+            },
+            {
+              "name": "Product so accessible and beneficial it's an 'ultimate gift'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business models",
+      "children": [
+        {
+          "name": "Microtransactions",
+          "children": [
+            {
+              "name": "Ubiquitous essential app running on micropayments"
+            } 
+          ]
+        },
+        {
+          "name": "Non-profit goals",
+          "children": [
+            {
+              "name": "Using profits to fund research centers"
+            },
+            {
+              "name": "Centers specializing in different disciplines" 
+            },
+            { 
+              "name": "Scientists and creators collaborating and travelling"
+            }
+          ]
+        },
+        {
+          "name": "Efficiency enabling goals beyond scarcity",
+          "children": [
+            {
+              "name": "Operating with goals of learning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product ideas", 
+      "children": [
+        {
+          "name": "Modular sustainable housing system"
+        },
+        {
+          "name": "Farming app/tools"
+        },
+        {
+          "name": "Field analysis app using sensors on drone"
+        },
+        {
+          "name": "AI-assisted farm decision making tool"
+        }  
+      ]
+    },
+    {
+      "name": "Public speaking",
+      "children": [
+        {
+          "name": "Filler words in conventions" 
+        },
+        {
+          "name": "Analyzing statements in conversations"
+        },
+        {
+          "name": "Flagging self-limiting statements"
+        },
+        {
+          "name": "AI-assisted public speaking coach"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "children": [
+        {
+          "name": "Rave party with spoken word narrative"
+        },
+        {
+          "name": "Embedding story in epic BBQ party mix"
+        },
+        {
+          "name": "Suggested song links"
+        }
+      ]  
+    },
+    {
+      "name": "Connections",
+      "children": [
+        {
+          "name": "Product strategies & business models"
+        },
+        {
+          "name": "Housing & farming apps"
+        }, 
+        {
+          "name": "Public speaking & limiting beliefs"
+        },
+        {
+          "name": "Music & collaborative dreaming"
+        }
+      ]
+    }
+  ]
+}
