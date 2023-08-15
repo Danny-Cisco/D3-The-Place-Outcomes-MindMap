@@ -1,0 +1,133 @@
+{  
+  "name": "Conversation",  
+  "children": [  
+   {   
+    "name": "AI voice recording tool",    
+    "children": [     
+     {    
+      "name": "Recording functionality",     
+      "children": [      
+       {       
+        "name": "Starting recording with one button"       
+       },
+       {       
+        "name": "Stopping recording and selecting context"       
+       },
+       {       
+        "name": "Sending recording to inbox"       
+       },   
+       {       
+        "name": "Potential for live transcription"           }         
+      ]     
+     },     
+     {     
+      "name": "UI improvements",
+      "children": [
+       {       
+        "name": "Larger buttons"       
+       },  
+       {       
+        "name": "Moving plus button"       
+       },
+       {       
+        "name": "Removing unnecessary elements"       
+       }
+      ]             
+     }      
+    ]  
+   },     
+   {
+    "name": "Discussions",
+    "children": [
+     {
+      "name": "Data structure",
+      "children": [
+       {
+        "name": "Tree vs graph structure"
+       },
+       {
+        "name": "Relationship between outcomes and tasks"
+       },  
+       {       
+        "name": "Layers of outcomes and tasks"       
+       }  
+      ]
+     },      
+     {
+      "name": "Interaction",
+      "children": [
+       {
+        "name": "Connecting visualization to data"
+       },
+       {
+        "name": "Editing and reassigning relationships"
+       },
+       {
+        "name": "Opening outcome cards"
+       }
+      ]  
+     },
+     {
+      "name": "Priorities",
+      "children": [
+       {
+        "name": "Email issues"
+       },
+       {
+        "name": "UI sketches"
+       },
+       {
+        "name": "Moving to Place system"
+       }
+      ]
+     }
+    ]  
+   },
+   {
+    "name": "Participants",
+    "children": [
+     {
+      "name": "Mark",
+      "children": [
+       {
+        "name": "Using system for actual work"
+       },
+       {
+        "name": "Breaking and raping things"
+       },
+       {
+        "name": "Wanting to use system exclusively"
+       }
+      ]  
+     },
+     {
+      "name": "Danny",
+      "children": [
+       {
+        "name": "Working on voice recording tool"
+       },
+       {
+        "name": "Developing knowledge graph from meetings"
+       }  
+      ]
+     },
+     {
+      "name": "Pablo",
+      "children": [
+       {
+        "name": "Working on email issues"
+       } 
+      ]
+     }, 
+     {
+      "name": "Dennis",  
+      "children": [
+       {
+        "name": "Wanting Mark to shut up"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+}

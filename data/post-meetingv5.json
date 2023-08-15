@@ -1,0 +1,170 @@
+{
+  "name": "Three-way conversation",
+  "children": [
+    {
+      "name": "GitHub repository setup",
+      "children": [
+        {
+          "name": "Adding collaborators",
+          "children": [
+            {
+              "name": "Sending invitation links"
+            },
+            {
+              "name": "Accepting invitations"
+            },
+            {
+              "name": "Giving collaborators access to main branch"
+            },
+            {
+              "name": "Protecting main branch"
+            },
+            {
+              "name": "Creating separate branches"
+            },
+            {
+              "name": "Pushing changes"
+            },
+            {
+              "name": "Merging branches"
+            }
+          ]
+        },
+        {
+          "name": "Environment variables",
+          "children": [
+            {
+              "name": ".env file"
+            },
+            {
+              "name": ".gitignore file"
+            },
+            {
+              "name": "API keys in .env file"
+            },
+            {
+              "name": "Not pushing .env file to GitHub"
+            }
+          ]
+        },
+        {
+          "name": "Cloning repository",
+          "children": [
+            {
+              "name": "Installing dependencies"
+            },
+            {
+              "name": "Running development server"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrating D3 visualization",
+      "children": [
+        {
+          "name": "Component structure",
+          "children": [
+            {
+              "name": "Script section"
+            },
+            {
+              "name": "Markup section"
+            }
+          ]
+        },
+        {
+          "name": "Passing data to component"
+        },
+        {
+          "name": "Importing component"
+        },
+        {
+          "name": "Rendering component"
+        }
+      ]
+    },
+    {
+      "name": "Visualization functionality",
+      "children": [
+        {
+          "name": "Using D3 library"
+        },
+        {
+          "name": "Drawing SVG graphics"
+        },
+        {
+          "name": "Creating mind map layout"
+        },
+        {
+          "name": "Adding links between nodes"
+        },
+        {
+          "name": "Customizing features"
+        }
+      ]
+    },
+    {
+      "name": "Visualization styling",
+      "children": [
+        {
+          "name": "Setting colors"
+        },
+        {
+          "name": "Formatting text"
+        },
+        {
+          "name": "Arranging card layout"
+        }
+      ]
+    },
+    {
+      "name": "Data format",
+      "children": [
+        {
+          "name": "JSON data file"
+        },
+        {
+          "name": "Nested node structure"
+        }
+      ]
+    },
+    {
+      "name": "Page layout",
+      "children": [
+        {
+          "name": "Cards on left"
+        },
+        {
+          "name": "Map on right"
+        }
+      ]
+    },
+    {
+      "name": "Animations",
+      "children": [
+        {
+          "name": "RIFE for video generation"
+        },
+        {
+          "name": "Vector animations"
+        }
+      ]
+    },
+    {
+      "name": "GitHub account management",
+      "children": [
+        {
+          "name": "Multiple accounts"
+        },
+        {
+          "name": "Deleting old accounts"
+        },
+        {
+          "name": "Finding correct account"
+        }
+      ]
+    }
+  ]
+}

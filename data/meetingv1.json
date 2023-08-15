@@ -1,0 +1,372 @@
+{  
+  "name": "Conversation",  
+  "children": [  
+   {   
+    "name": "AI video tools",    
+    "children": [     
+     {    
+      "name": "Gen 1 video to video",     
+      "children": [      
+       {       
+        "name": "Using a video and image prompt"       
+       },
+       {       
+        "name": "Making video look like photo prompt"       
+       }, 
+       {       
+        "name": "Grabbing textures from photo"      
+       },   
+       {       
+        "name": "Photo showing highlights and contours"       
+       }         
+      ]     
+     },     
+     {     
+      "name": "Gen 2 image to video",
+      "children": [
+       {       
+        "name": "Making 4 second videos"       
+       },  
+       {       
+        "name": "Linking videos together"       
+       },
+       {       
+        "name": "Using midjourney images as prompts"       
+       }
+      ]             
+     },    
+     {     
+      "name": "Runway",   
+      "children": [
+       {       
+        "name": "Using for Gen 2 videos"       
+       }    
+      ]   
+     },         
+     {      
+      "name": "Kyber",
+      "children": [
+       {       
+        "name": "Creating short evolving videos"       
+       }
+      ]
+     },             
+     {    
+      "name": "Wonder Dynamics",
+      "children": [
+       {       
+        "name": "Using 3D characters"       
+       },
+       {       
+        "name": "Rigging characters"       
+       },
+       {       
+        "name": "Matching 3D character poses"        
+       },
+       {       
+        "name": "Matching 3D character lighting"       
+       }     
+      ]
+     },    
+     {
+      "name": "Nerf 3D capturing",
+      "children": [
+       {       
+        "name": "Capturing direction of light"       
+       },
+       {       
+        "name": "Allowing camera movement"       
+       },
+       {       
+        "name": "Exporting objects as 3D models"       
+       }         
+      ]
+     },
+     {
+      "name": "Adobe Aero"   
+     },      
+     {
+      "name": "Midjourney"    
+     },               
+     {
+      "name": "11 Labs"
+     }         
+    ]  
+   },     
+   {
+    "name": "Other topics",
+    "children": [
+  
+     {
+      "name": "AI programming",
+      "children": [
+       {
+        "name": "Asking chatGPT questions to write code"
+       },
+       {
+        "name": "Copying and pasting code from chatGPT"
+       },
+       {
+        "name": "Telling chatGPT how to change app features"
+       }        
+      ]
+     },       
+     {
+      "name": "AI voice cloning",
+      "children": [
+       {
+        "name": "Cloning voices from internet samples"
+       },
+       {
+        "name": "Using cloned voices in projects"
+       },
+       {
+        "name": "Cloning voice from 30 seconds of audio"
+       }            
+      ]    
+     },        
+     {
+      "name": "AI movement",
+      "children": [
+       {
+        "name": "Difficulty directing AI movement"
+       },
+       {
+        "name": "AI lacking feeling in movement"
+       },
+       {
+        "name": "Complexity of human movement"
+       },
+       {
+        "name": "Variety of styles in human movement"
+       }               
+      ]
+     }     
+    ]  
+   },
+   {
+    "name": "Emotions",
+    "children": [
+     {
+      "name": "Shared emotions",
+      "children": [
+       {
+        "name": "Positive emotions",
+        "children": [           
+         {
+          "name": "Experimenting with AI tools"           
+         },
+         {
+          "name": "AI generating new content"            
+         }                 
+        ]  
+       },
+       {
+        "name": "Negative emotions",
+        "children": [          
+         {
+          "name": "Concerned: AI-enabled disinformation"           
+         }                 
+        ]  
+       }
+      ]
+     },
+     {
+      "name": "Eygene's emotions",
+      "children": [
+       {
+        "name": "Positive emotions",
+        "children": [
+         {
+          "name":  "Curious: State of video AI"           
+         },
+         {
+          "name": "Fascinated: AI capabilities & limits"           
+         }                
+        ]  
+       },
+       {
+        "name": "Negative emotions",
+        "children": [          
+         {
+          "name": "Concerned: AI's rapid progress"           
+         }                 
+        ]  
+       }
+      ]  
+     },
+     {
+      "name": "Danny's emotions",
+      "children": [
+       {
+        "name": "Positive emotions",
+        "children": [          
+         {
+          "name": "Excited: Exploring AI tools"           
+         },              
+         {
+          "name": "Amazed: AI's impact on life and work"           
+         },
+         {
+          "name": "Appreciative: Movement as expression"           
+         },
+         {
+          "name": "Optimistic: AI's potential"           
+         }                 
+        ]  
+       },
+       {
+        "name": "Negative emotions",
+        "children": [          
+         {
+          "name": "Frustrated: Directing AI content"           
+         }                 
+        ]  
+       }
+      ]
+     }    
+    ]    
+   }
+  ]
+}  it needs to use the same "name": "children": structure so i can use it in D3.js
+
+ Here is my attempt at a JSON file describing the transcript between Danny and Pablo:
+
+{
+  "name": "Conversation",
+  "children": [
+    {
+      "name": "Concepts",
+      "children": [
+        {
+          "name": "Universal Objects",
+          "children": [
+            {
+              "name": "Granular modular data",
+             },
+             {
+              "name": "Arbitrary subjective implementation",
+             },  
+             {
+              "name": "Philosophy of capturing at most granular level",
+             }           
+          ]
+        },
+        {
+          "name": "Interfaces",
+          "children": [
+            {
+              "name": "Interface defines coding",
+             },
+            {
+             "name": "Structure from client enables progress",
+             },
+             {
+              "name": "Interface first before anything",
+            }          
+          ]          
+        },
+        {
+          "name": "Starting Fresh",         
+          "children": [
+            {
+             "name": "Love of starting collections anew",
+            }                                 
+          ]          
+        },
+        {
+         "name": "Psychology",
+         "children": [          
+           {
+            "name": "Hubris",
+           },
+           {
+             "name": "Flow", 
+             "children": [
+              {
+               "name": "Visual flow enables mental flow"
+              }
+             ]             
+           },
+           {  
+            "name": "Simple creatures",
+            "children": [
+             {
+              "name": "Motivated by feelings" 
+             },             
+             {
+              "name": "Satisfied by blips and blops"
+             } 
+            ]                    
+          }               
+        ]              
+      ]    
+    },
+    {
+     "name": "Process",
+     "children": [
+       {
+        "name": "Focusing on present",
+        "children": [
+         {          
+          "name": "Not thinking too far ahead",  
+         },
+         {          
+          "name": "Focus on what's infront of us"  
+         }                              
+        ]
+       },  
+       {
+        "name": "Roadmap",         
+        "children": [
+         {          
+          "name": "Get structure and ideas together enough to feel good to use",  
+         },
+         {          
+          "name": "Demonstrate concept and implications to get million dollars at 10%",  
+         },
+         { 
+          "name": "Use money to hire experts"
+         }                               
+        ]                   
+      }  
+     ]             
+    }, 
+    {
+     "name": "Client",
+     "children": [
+       {
+        "name": "Mark as client gives structure",
+       },
+       { 
+        "name": "Client wants product to sell to get funding",
+       }        
+     ]                   
+    },
+    {
+     "name": "Visualization",
+     "children": [
+       {
+        "name": "Collapsible tree",
+        "children": [
+         {          
+          "name": "Can represent everything",  
+         },  
+         {          
+          "name": "Minimal, tidy",  
+         },
+         {          
+          "name": "Easy to read and process",  
+         },
+         {
+          "name": "Hides complexity",
+         },          
+         {          
+          "name": "Code available to bend to will" 
+         }                               
+        ]
+       }                              
+     ]          
+    }
+  ]     
+}

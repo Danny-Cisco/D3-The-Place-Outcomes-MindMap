@@ -1,0 +1,197 @@
+
+{  
+  "name": "4-person meeting transcript",  
+  "children": [  
+   {   
+    "name": "Welcome and introduction",   
+    "children": [    
+     {    
+      "name": "Mark",    
+          "children": [      
+       {       
+        "name": "Annoyed at emails bouncing",       
+        "children": [        
+         {         
+          "name": "Getting texts about it daily"          
+         },
+         {         
+          "name": "Wants it resolved immediately"           
+         }                
+        ]      
+       }, 
+       {       
+        "name": "Still using Airtable version"       
+       }                 
+      ]     
+     },     
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Offers to help resolve email issue"       
+       }          
+      ]             
+     }          
+    ]  
+   },  
+   {
+    "name": "Place transition",
+    "children": [
+     {     
+      "name": "Mark",
+      "children": [
+       {       
+        "name": "Ready to transition fully to the Place"    
+       },
+       {       
+        "name": "Currently cleaning up Airtable version"
+       }       
+      ]
+     },    
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Suggests transitioning Mark fully by next Wednesday"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "In-page sketches",
+    "children": [
+     {     
+      "name": "Mark",
+      "children": [
+       {       
+        "name": "Posted early sketches for in-page"  
+       },
+       {       
+        "name": "Prefers large buttons"  
+       },
+       {       
+        "name": "Wants to just start recording with one button press"  
+       }       
+      ]
+     },    
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Likes the flow of one-button recording start"  
+       },
+       {       
+        "name": "Notes iOS permission issues to consider"  
+       },
+       {       
+        "name": "Suggests handling recording output with options after stopping"  
+       }          
+      ]
+     },
+     {     
+      "name": "Pavlo",
+      "children": [
+       {       
+        "name": "Asks about linking in-page to natural language processing" 
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "Tasks and priorities",
+    "children": [
+     {     
+      "name": "Mark",
+      "children": [
+       {       
+        "name": "Lists his suggested priorities and tasks for the week"  
+       },
+       {       
+        "name": "Notes that emails are top priority"  
+       },
+       {       
+        "name": "Is using the Place for 30 tasks daily already in testing"  
+       }       
+      ]
+     },    
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Confirms resolving emails is top priority"  
+       },
+       {       
+        "name": "Suggests also building Discord bot to capture meetings"  
+       }          
+      ]
+     } 
+    ]
+   },
+   {
+    "name": "Projections and vision",
+    "children": [
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Sees potential to have mind maps, transcription and summary side by side for meetings"  
+       },
+       {       
+        "name": "Would highlight who said what for each node in the map"  
+       }       
+      ]
+     },    
+     {     
+      "name": "Pavlo",
+      "children": [
+       {       
+        "name": "Notes the complexity of generating all of that for meetings"  
+       }          
+      ]
+     },
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Acknowledges it would be the \"whiz-bang\" version, simpler versions can come first"  
+       }       
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "Departure",
+    "children": [
+     {     
+      "name": "Mark",
+      "children": [
+       {       
+        "name": "Apologizes for arguing and says he will go so work can continue"  
+       },
+       {       
+        "name": "Notes progress is good and to keep him posted"  
+       }       
+      ]
+     },    
+     {     
+      "name": "Danny",
+      "children": [
+       {       
+        "name": "Thanks Mark for the feedback"  
+       }          
+      ]
+     },
+     {     
+      "name": "Pavlo",
+      "children": [
+       {       
+        "name": "Tells Mark to feel better"  
+       }       
+      ]
+     }
+    ]
+   }
+  ]
+}

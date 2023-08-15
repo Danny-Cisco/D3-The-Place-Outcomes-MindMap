@@ -1,0 +1,154 @@
+{
+  "name": "Transcript Summary",
+  "children": [
+    {
+      "name": "GitHub Collaboration",
+      "children": [
+        {
+          "name": "Setting up access",
+          "children": [
+            {
+              "name": "Inviting collaborators", 
+              "children": [
+                {
+                  "name": "Sharing invitation links"
+                },
+                {
+                  "name": "Accepting invitations"
+                }
+              ]
+            },
+            {
+              "name": "Managing access levels"
+            },
+            {  
+              "name": "Enabling branch protection",
+              "children": [
+                {
+                  "name": "Main branch protection requires paid account"
+                },
+                {
+                  "name": "Using forks as workaround for now"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Using branches",
+          "children": [
+            {
+              "name": "Creating private branches"
+            },
+            {
+              "name": "Forking repositories"
+            }
+          ]
+        }
+      ]
+    },
+    {  
+      "name": "Front-end Setup",  
+      "children": [
+        {  
+          "name": "Environment variables",
+          "children": [
+            {  
+              "name": "Storing in .env file",
+              "children": [
+                {  
+                  "name": "API keys"
+                }
+              ]
+            },
+            {  
+              "name": "Adding .env to .gitignore"
+            }
+          ]
+        },
+        {  
+          "name": "Installing packages",  
+          "children": [
+            {  
+              "name": "npm install"
+            },
+            {  
+              "name": "npm run dev"
+            }  
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D3 Visualization",
+      "children": [
+        {  
+          "name": "Translating code to Svelte",  
+          "children": [
+            {  
+              "name": "Reorganizing folders"
+            },
+            {  
+              "name": "Importing components"
+            },
+            {  
+              "name": "Placing components in page"
+            }  
+          ]
+        },
+        {  
+          "name": "Loading data",
+          "children": [
+            {  
+              "name": "Fetching from JSON"
+            }
+          ]
+        },
+        {  
+          "name": "Drawing SVG",
+          "children": [
+            {  
+              "name": "Using D3 library"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mind Mapping Component",
+      "children": [
+        {
+          "name": "Reviewing existing tools" 
+        },
+        {  
+          "name": "Key features to implement",
+          "children": [
+            {  
+              "name": "Adjustable node size"
+            },
+            {  
+              "name": "Curved/angled links"
+            },
+            {  
+              "name": "Double line wrapping for long text"
+            },  
+            {  
+              "name": "Color options"
+            },
+            {  
+              "name": "Node links" 
+            }
+          ]
+        },
+        {  
+          "name": "Data source",
+          "children": [
+            {  
+              "name": "JSON from Airtable"
+            }
+          ]
+        }
+      ] 
+    }
+  ]
+}

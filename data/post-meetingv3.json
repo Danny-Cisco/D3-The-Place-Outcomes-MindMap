@@ -1,0 +1,160 @@
+{
+  "name": "Conversation",  
+  "children": [  
+   {
+    "name": "Meeting topics",
+    "children": [
+     {
+      "name": "GitHub access",
+      "children": [
+       {
+        "name": "Danny needs access to dev repo"
+       },
+       {
+        "name": "Pivulous needs invite to access repo"
+       },
+       {
+        "name": "Main repo branch is protected"
+       },
+       {
+        "name": "Temp solution: everyone forks repo"
+       },
+       {
+        "name": "Learn proper GitHub workflow"
+       }
+      ]
+     },
+     {
+      "name": "D3 visualization", 
+      "children": [
+       {
+        "name": "Danny built D3 map visualization"
+       },
+       {
+        "name": "Needs to add visualization to outcomes page"
+       },
+       {
+        "name": "Import visualization component"
+       },
+       {
+        "name": "Provide dummy data for now"
+       },
+       {
+        "name": "Learn to pass real data to visualization later"
+       }
+      ]
+     },
+     {
+      "name": "Svelte",
+      "children": [
+       {
+        "name": "Danny learning Svelte"
+       },
+       {
+        "name": "Struggling to understand some concepts"
+       },
+       {
+        "name": "Pablo provides overview of file structure"
+       },
+       {
+        "name": "Shows how to add new component to page"
+       },
+       {
+        "name": "Directs Danny to Svelte D3 tutorial"
+       }
+      ]
+     },     
+     {  
+      "name": "Environment setup",
+      "children": [
+       {
+        "name": "Danny needs .env file with API keys"
+       },
+       {
+        "name": ".env file added to Airtable for Danny"
+       },
+       {
+        "name": "Reminder not to push .env to GitHub"
+       },
+       {
+        "name": "Danny should clone, install dependencies, then npm run dev"
+       }
+      ]
+     },
+     {  
+      "name": "Project priorities",
+      "children": [
+       {
+        "name": "Focus on implementing email functionality"
+       },
+       {
+        "name": "D3 visualization deprioritized for now"
+       },
+       {
+        "name": "Learn GitHub collaboration workflow"
+       },
+       {
+        "name": "Danny and Pivulous should avoid pushing to repo for now"
+       }
+      ]     
+     }
+    ]
+   },
+   {
+    "name": "Chat dynamics",
+    "children": [
+     {
+      "name": "Danny's technical questions",
+      "children": [
+       {
+        "name": "Struggling to follow parts of conversation" 
+       },
+       {
+        "name": "Asks for Pablo to slow down and explain"
+       },
+       {
+        "name": "Confused on where to find .env in Airtable"
+       },
+       {
+        "name": "Unsure how to implement D3 in Svelte"
+       }
+      ]
+     },  
+     {
+      "name": "Pablo provides guidance",
+      "children": [
+       {
+        "name": "Offers an overview of file structure"
+       },
+       {
+        "name": "Shows how to import and use components"
+       },
+       {
+        "name": "Suggests learning Svelte D3 tutorial"
+       },
+       {
+        "name": "Repeats steps for setting up environment"
+       }
+      ]
+     },
+     {
+      "name": "Conversational pace",
+      "children": [
+       {
+        "name": "Some confusion and talking over each other"
+       },
+       {
+        "name": "Pablo talks quickly, has to slow down for Danny"
+       },
+       {
+        "name": "Danny loses the conversation thread at some points"
+       },
+       {
+        "name": "Recaps and summaries help get conversation back on track"    
+       }
+      ]       
+     }
+    ]
+   }
+  ]
+}

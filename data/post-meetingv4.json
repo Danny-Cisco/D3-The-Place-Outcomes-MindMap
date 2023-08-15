@@ -1,0 +1,183 @@
+{
+  "name": "Conversation Summary",
+  "children": [
+    {
+      "name": "GitHub Collaboration",
+      "children": [
+        {
+          "name": "Adding Collaborators",
+          "children": [
+            {
+              "name": "Sending Invites",
+              "children": [
+                {
+                  "name": "Via Discord"
+                },
+                {
+                  "name": "Via Email"
+                }
+              ]
+            },
+            {
+              "name": "Accepting Invites",
+              "children": [
+                {
+                  "name": "Following Link"
+                }
+              ]
+            },
+            {
+              "name": "Managing Access",
+              "children": [
+                {
+                  "name": "Branch Protection Rules"
+                },
+                {
+                  "name": "Requiring Pull Requests"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Using Branches",
+          "children": [
+            {
+              "name": "Creating New Branches",
+              "children": [
+                {
+                  "name": "To Avoid Breaking Main Branch"
+                },
+                {
+                  "name": "For Collaborator Work"
+                }
+              ]
+            },
+            {
+              "name": "Pushing To Branches",
+              "children": [
+                {
+                  "name": "To Avoid Pushing to Main Branch"
+                }
+              ]
+            },
+            {
+              "name": "Merging Branches",
+              "children": [
+                {
+                  "name": "Manually Into Main Branch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environment Variables",
+          "children": [
+            {
+              "name": ".env File",
+              "children": [
+                {
+                  "name": "Contains API Keys"
+                },
+                {
+                  "name": "Added to .gitignore"
+                }
+              ]
+            },
+            {
+              "name": "Sharing .env File",
+              "children": [
+                {
+                  "name": "Via Airtable"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Front-End Setup",
+      "children": [
+        {
+          "name": "NPM Install",
+          "children": [
+            {
+              "name": "To Install Dependencies"
+            }
+          ]
+        },
+        {
+          "name": "NPM Run Dev",
+          "children": [
+            {
+              "name": "To Build App"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D3 Visualization",
+      "children": [
+        {
+          "name": "Data Folder",
+          "children": [
+            {
+              "name": "Contains JSON Data"
+            }
+          ]
+        },
+        {
+          "name": "Scripts Folder",
+          "children": [
+            {
+              "name": "Contains D3 Code"
+            }
+          ]
+        },
+        {
+          "name": "Importing Into Svelte",
+          "children": [
+            {
+              "name": "To Render in App"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Svelte",
+      "children": [
+        {
+          "name": "Learning Svelte",
+          "children": [
+            {
+              "name": "Following Tutorials"
+            },
+            {
+              "name": "Converting Knowledge to Svelte"
+            }
+          ]
+        },
+        {
+          "name": "Components",
+          "children": [
+            {
+              "name": "Outcome Map Component"
+            }
+          ]
+        },
+        {
+          "name": "Importing D3 Into Svelte",
+          "children": [
+            {
+              "name": "To Render Visualization"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

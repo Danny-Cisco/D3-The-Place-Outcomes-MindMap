@@ -11,10 +11,25 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
+    <h1>COLLAPSIBLE MIND-MAP - Interactive Node Tree</h1>
 
 <br><br><br> <!-- Three line breaks -->
 <label for="spacing-slider">Link Spacing: </label>
 <input id="spacing-slider" type="range" min="0.3" max="4" step="0.05" value="2">
+<select id="json-selector">
+    <option value="outcomes_0.1.json">outcomes_0.1.json</option>/option>
+    <option value="meetingv1.json">meetingv1.json</option>
+    <option value="meetingv2.json">meetingv2.json</option>
+    <option value="meetingv3.json">meetingv3.json</option>
+    <option value="meetingv4.json">meetingv4.json</option>
+    <option value="post-meetingv1.json">post-meetingv1.json</option>
+    <option value="post-meetingv2.json">post-meetingv2.json</option>
+    <option value="post-meetingv3.json">post-meetingv3.json</option>
+    <option value="post-meetingv4.json">post-meetingv4.json</option>
+    <!-- Add more options for other JSON files as needed -->
+</select>
+
+
 
 <!-- The script where your D3 code resides -->
 <script src="scripts/dataFetcher.js"></script>
