@@ -1,116 +1,116 @@
 {
   "name": "4-way meeting",
   "children": [
-   {   
-    "name": "General discussion",    
-    "children": [     
-     {    
-      "name": "Workplace issues",    
-      "children": [      
-       {       
-        "name": "Mark's emails bouncing"       
-       },
-       {     
-        "name": "Mark receiving many texts"      
-       }       
-      ]
-     },
-     {    
-      "name": "Resolving email issues", 
-      "children": [      
-       {      
-        "name": "Danny offering to help resolve the issue"      
-       }        
-      ]
-     },  
-     {
-      "name": "Sketches for plus do outcomes page", 
+    {
+      "name": "General discussion",
       "children": [
-       {      
-        "name": "Mark sharing initial sketches"       
-       },
-       {      
-        "name": "Sketches showing many options, suggested simplifying"       
-       },
-       {      
-        "name": "Larger buttons, remove excess elements"    
-       }
-      ]          
-     },               
-     {   
-     "name": "Giving context to voice recordings",    
-     "children": [     
-      {    
-       "name": "Suggestion of having buttons to categorize recordings",      
-       "children": [       
-        {       
-         "name": "Send to inbox",         
+        {
+          "name": "Workplace issues",
+          "children": [
+            {
+              "name": "Mark's emails bouncing"
+            },
+            {
+              "name": "Mark receiving many texts"
+            }
+          ]
         },
-        {       
-         "name": "Send as action",         
+        {
+          "name": "Resolving email issues",
+          "children": [
+            {
+              "name": "Danny offering to help resolve the issue"
+            }
+          ]
         },
-        {       
-         "name": "Send as meeting minutes",         
+        {
+          "name": "Sketches for plus do outcomes page",
+          "children": [
+            {
+              "name": "Mark sharing initial sketches"
+            },
+            {
+              "name": "Sketches showing many options, suggested simplifying"
+            },
+            {
+              "name": "Larger buttons, remove excess elements"
+            }
+          ]
+        },
+        {
+          "name": "Giving context to voice recordings",
+          "children": [
+            {
+              "name": "Suggestion of having buttons to categorize recordings",
+              "children": [
+                {
+                  "name": "Send to inbox"
+                },
+                {
+                  "name": "Send as action"
+                },
+                {
+                  "name": "Send as meeting minutes"
+                }
+              ]
+            },
+            {
+              "name": "Eventually wanting ability to rant into app"
+            }
+          ]
+        },
+        {
+          "name": "Bringing Mark fully onto The Place",
+          "children": [
+            {
+              "name": "Discussion of moving Mark from Airtable to The Place",
+              "children": [
+                {
+                  "name": "Merging Pavlo's system into The Place"
+                },
+                {
+                  "name": "Setting goal of next Wednesday for transition"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Prioritizing tasks",
+          "children": [
+            {
+              "name": "Agreeing to focus on task list before fully transitioning Mark"
+            }
+          ]
         }
-       ]    
-      },
-      {      
-       "name": "Eventually wanting ability to rant into app",      
-      }         
-     ]     
-    },                
-     {    
-      "name": "Bringing Mark fully onto The Place",    
-      "children": [      
-       {      
-        "name": "Discussion of moving Mark from Airtable to The Place",      
-        "children": [        
-         {         
-          "name": "Merging Pavlo's system into The Place",        
-         },
-         {         
-          "name": "Setting goal of next Wednesday for transition",        
-         }       
-        ]     
-       }    
-      ]         
-     },
-     {
-      "name": "Prioritizing tasks",
+      ]
+    },
+    {
+      "name": "Conversation shifts and diversions",
       "children": [
-       {      
-        "name": "Agreeing to focus on task list before fully transitioning Mark"       
-       }
-      ] 
-     }                  
-    ]  
-   },  
-   {
-    "name": "Conversation shifts and diversions",
-    "children": [  
-     {
-      "name": "Discussion of Mark's language",    
-      "children": [      
-       {      
-        "name": "Expressing discomfort with Mark's references to 'raping' technology"       
-       },
-       {      
-        "name": "Suggesting such language is not appropriate or helpful"       
-       }     
-      ]          
-     },
-     {
-      "name": "Discussion of transcripts and analysis",    
-      "children": [      
-       {      
-        "name": "Recognizing difficulty attributing nodes to specific speakers"       
-       },
-       {      
-        "name": "Suggesting summarizing concepts as a whole rather than by speaker"       
-       }
-      ]         
-     }
-    ]  
-   }
+        {
+          "name": "Discussion of Mark's language",
+          "children": [
+            {
+              "name": "Expressing discomfort with Mark's references to 'raping' technology"
+            },
+            {
+              "name": "Suggesting such language is not appropriate or helpful"
+            }
+          ]
+        },
+        {
+          "name": "Discussion of transcripts and analysis",
+          "children": [
+            {
+              "name": "Recognizing difficulty attributing nodes to specific speakers"
+            },
+            {
+              "name": "Suggesting summarizing concepts as a whole rather than by speaker"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

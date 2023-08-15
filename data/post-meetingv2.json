@@ -1,119 +1,118 @@
-
-{  
-  "name": "Meeting Transcript",  
+{
+  "name": "Meeting Transcript",
   "children": [
-   {
-    "name": "GitHub Collaboration",
-    "children": [
-     {
-      "name": "Inviting collaborators",
-     },
-     {
-      "name": "Accessing repositories",
-     },
-     {
-      "name": "Creating branches",
-     },
-     {
-      "name": "Merging and resolving conflicts",
-     },
-     {
-      "name": "Pushing and pulling", 
-     },
-     {
-      "name": "Using .env files",
-     }
-    ]
-   },  
-   {
-    "name": "Frontend setup",
-    "children": [
-     {
-      "name": "Cloning the repository",
-     },
-     {
-      "name": "Running npm install",
-     },
-     {
-      "name": "Running npm run dev",
-     },
-     {
-      "name": "Installing dependencies",
-     },
-     {
-      "name": "Build step omitted from .gitignore",
-     }
-    ]
-   },
-   {
-    "name": "D3 visualization",
-    "children": [
-     {
-      "name": "Fetching data from JSON",
-     },
-     {
-      "name": "Drawing SVGs",
-     },
-     {
-      "name": "Adding interactivity",
-     }
-    ]
-   },
-   {
-    "name": "Svelte",      
-    "children": [
-     {
-      "name": "Importing components",
-     },
-     {
-      "name": "Using <slot> for pass-through content",
-     },
-     {
-      "name": "On mount lifecycle event",
-     },
-     {
-      "name": "SVG/D3 integration"
-     }
-    ]
-   },
-   {
-    "name": "Markdown mind maps",
-    "children": [
-     {
-      "name": "Markmap JS library",  
+    {
+      "name": "GitHub Collaboration",
       "children": [
-       {
-        "name": "Using markdown to generate mind maps", 
-       },
-       {
-        "name": "Adding links between nodes", 
-       },
-       {
-        "name": "Configuring number of levels shown", 
-       },
-       {
-        "name": "Changing color scheme", 
-       }
+        {
+          "name": "Inviting collaborators"
+        },
+        {
+          "name": "Accessing repositories"
+        },
+        {
+          "name": "Creating branches"
+        },
+        {
+          "name": "Merging and resolving conflicts"
+        },
+        {
+          "name": "Pushing and pulling"
+        },
+        {
+          "name": "Using .env files"
+        }
       ]
-     }
-    ]
-   },
-   {
-    "name": "Priorities and next steps",
-    "children": [
-     {
-      "name": "Focusing on backend data storage",
-     },
-     {
-      "name": "Implementing email functionality",
-     },
-     {
-      "name": "Merging branches and resolving conflicts properly",
-     },
-     {
-      "name": "Transferring app to company GitHub account",
-     }
-    ]
-   } 
+    },
+    {
+      "name": "Frontend setup",
+      "children": [
+        {
+          "name": "Cloning the repository"
+        },
+        {
+          "name": "Running npm install"
+        },
+        {
+          "name": "Running npm run dev"
+        },
+        {
+          "name": "Installing dependencies"
+        },
+        {
+          "name": "Build step omitted from .gitignore"
+        }
+      ]
+    },
+    {
+      "name": "D3 visualization",
+      "children": [
+        {
+          "name": "Fetching data from JSON"
+        },
+        {
+          "name": "Drawing SVGs"
+        },
+        {
+          "name": "Adding interactivity"
+        }
+      ]
+    },
+    {
+      "name": "Svelte",
+      "children": [
+        {
+          "name": "Importing components"
+        },
+        {
+          "name": "Using <slot> for pass-through content"
+        },
+        {
+          "name": "On mount lifecycle event"
+        },
+        {
+          "name": "SVG/D3 integration"
+        }
+      ]
+    },
+    {
+      "name": "Markdown mind maps",
+      "children": [
+        {
+          "name": "Markmap JS library",
+          "children": [
+            {
+              "name": "Using markdown to generate mind maps"
+            },
+            {
+              "name": "Adding links between nodes"
+            },
+            {
+              "name": "Configuring number of levels shown"
+            },
+            {
+              "name": "Changing color scheme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Priorities and next steps",
+      "children": [
+        {
+          "name": "Focusing on backend data storage"
+        },
+        {
+          "name": "Implementing email functionality"
+        },
+        {
+          "name": "Merging branches and resolving conflicts properly"
+        },
+        {
+          "name": "Transferring app to company GitHub account"
+        }
+      ]
+    }
   ]
 }
