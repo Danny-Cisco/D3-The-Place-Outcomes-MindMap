@@ -36,8 +36,9 @@ const heightVH = window.innerHeight || document.documentElement.clientHeight;
   
     const tree = d3.tree().nodeSize([dx, dy]);
     const diagonal = d3.linkHorizontal().x(d => d.y).y(d => d.x);
-  
-    const svg = d3.select("body").append("svg")
+    
+    const svg = d3.select("#chart").append("svg")
+
 
       .attr("width", width)
       .attr("height", heightVH)
