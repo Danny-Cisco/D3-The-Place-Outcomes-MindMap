@@ -25,8 +25,12 @@ const heightVH = window.innerHeight || document.documentElement.clientHeight;
   
     const root = d3.hierarchy(data);
     const dx = 25;
+
+    const isMobile = window.innerWidth <= 768; 
+    const spacingFactorMobile = isMobile ? 2.5 : 1;  // adjust values as needed
+
   
-    let spacingFactor = 1.7; // Adjust as needed
+    let spacingFactor = 1.7 * spacingFactorMobile; // Adjust as needed
     const dy = spacingFactor * (width - marginRight - marginLeft) / (1 + root.height);
   
   
