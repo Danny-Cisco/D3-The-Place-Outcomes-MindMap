@@ -1,0 +1,173 @@
+{
+  "name": "Laws of UX",
+  "children": [
+    {
+      "name": "Zeigarnik Effect",
+      "children": [
+        {
+          "name": "People often tend to remember interrupted tasks better than completed tasks."
+        }
+      ]
+    },
+    {
+      "name": "Von Restorff Effect / The Isolation Effect",
+      "children": [
+        {
+          "name": "Items that stand out from the rest of their peers are more memorable."
+        }
+      ]
+    },
+    {
+      "name": "Tesler's Law / Law of Conservation of Complexity",
+      "children": [
+        {
+          "name": "For any system there is a certain amount of complexity which cannot be reduced."
+        }
+      ]
+    },
+    {
+      "name": "Serial Position Effect",
+      "children": [
+        {
+          "name": "Users have a natural inclination to best remember the first and the last items in a series."
+        }
+      ]
+    },
+    {
+      "name": "Postel's Law",
+      "children": [
+        {
+          "name": "Be liberal in what you accept, and conservative in what you send."
+        }
+      ]
+    },
+    {
+      "name": "Parkinson's Law",
+      "children": [
+        {
+          "name": "Work expands so as to fill the time available for its completion."
+        }
+      ]
+    },
+    {
+      "name": "Pareto Principle",
+      "children": [
+        {
+          "name": "For many events, roughly 80% of the effects come from 20% of the causes."
+        }
+      ]
+    },
+    {
+      "name": "Occam's Razor",
+      "children": [
+        {
+          "name": "When presented with competing hypotheses to solve a problem, one should select the solution with the fewest assumptions."
+        }
+      ]
+    },
+    {
+      "name": "Jacob's Law",
+      "children": [
+        {
+          "name": "Users mostly prefer your site to work the same way as all the other sites they already know."
+        }
+      ]
+    },
+    {
+      "name": "Doherty's Threshold",
+      "children": [
+        {
+          "name": "Productivity soars when a computer and its users interact at a pace (<400ms) that ensures that neither has to wait on the other."
+        }
+      ]
+    },
+    {
+      "name": "Miller's Law",
+      "children": [
+        {
+          "name": "An average person can only keep 7 (+- 2) items in their working memory."
+        }
+      ]
+    },
+    {
+      "name": "Hofstadter's Law",
+      "children": [
+        {
+          "name": "It always takes longer than you expect, even when you take into account Hofstadter's Law."
+        }
+      ]
+    },
+    {
+      "name": "Amara's Law",
+      "children": [
+        {
+          "name": "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run."
+        }
+      ]
+    },
+    {
+      "name": "Fitt's Law",
+      "children": [
+        {
+          "name": "The time to acquire a target is a function of the distance to and size of the target."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law Of Proximity",
+      "children": [
+        {
+          "name": "Things that are near each other seem to be grouped together."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law Of Continuity",
+      "children": [
+        {
+          "name": "Points that are connected by straight or curving lines are seen in a way that follows the smoothest path."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law of Pragnanz",
+      "children": [
+        {
+          "name": "Objects in the environment are seen in a way that makes them appear as simple as possible."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law Of Similarity",
+      "children": [
+        {
+          "name": "Things similar tend to appear grouped together."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law Of Closure",
+      "children": [
+        {
+          "name": "Things are grouped together if they seem to complete some entity."
+        }
+      ]
+    },
+    {
+      "name": "Gestalt Laws of Perceptual Organization - Law Of Common Region",
+      "children": [
+        {
+          "name": "Elements that are grouped together within the same region of space tend to be grouped together."
+        }
+      ]
+    },
+    {
+      "name": "Hick's Law / Hick-Hyman's Law",
+      "children": [
+        {
+          "name": "The time it takes to make a decision increases with the number and complexity of choices."
+        }
+      ]
+    }
+  ]
+}
