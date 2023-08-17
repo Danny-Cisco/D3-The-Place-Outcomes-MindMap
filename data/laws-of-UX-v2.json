@@ -1,0 +1,210 @@
+{
+    "name": "Laws of UX",
+    "children": [
+      {
+        "name": "Cognitive Load & Memory",
+        "children": [
+          {
+            "name": "Zeigarnik Effect",
+            "children": [
+              {
+                "name": "People often remember interrupted tasks better."
+              }
+            ]
+          },
+          {
+            "name": "Miller's Law",
+            "children": [
+              {
+                "name": "An average person can keep 7 (+- 2) items in working memory."
+              }
+            ]
+          },
+          {
+            "name": "Serial Position Effect",
+            "children": [
+              {
+                "name": "Users remember the first and last items in a series best."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Attention & Perception",
+        "children": [
+          {
+            "name": "Von Restorff Effect / The Isolation Effect",
+            "children": [
+              {
+                "name": "Items that stand out are more memorable."
+              }
+            ]
+          },
+          {
+            "name": "Gestalt Laws of Perceptual Organization",
+            "children": [
+              {
+                "name": "Proximity",
+                "children": [
+                  {
+                    "name": "Things that are near each other seem to be grouped together."
+                  }
+                ]
+              },
+              {
+                "name": "Continuity",
+                "children": [
+                  {
+                    "name": "Points connected by lines are seen in a way that follows the smoothest path."
+                  }
+                ]
+              },
+              {
+                "name": "Pragnanz",
+                "children": [
+                  {
+                    "name": "Objects are seen in a way that makes them appear as simple as possible."
+                  }
+                ]
+              },
+              {
+                "name": "Similarity",
+                "children": [
+                  {
+                    "name": "Similar things tend to appear grouped together."
+                  }
+                ]
+              },
+              {
+                "name": "Closure",
+                "children": [
+                  {
+                    "name": "Things are grouped together if they seem to complete some entity."
+                  }
+                ]
+              },
+              {
+                "name": "Common Region",
+                "children": [
+                  {
+                    "name": "Elements grouped together within the same region of space tend to be grouped together."
+                  }
+                ]
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "name": "Efficiency & Productivity",
+        "children": [
+          {
+            "name": "Doherty's Threshold",
+            "children": [
+              {
+                "name": "Productivity soars when interaction pace ensures neither computer nor user waits on the other."
+              }
+            ]
+          },
+          {
+            "name": "Parkinson's Law",
+            "children": [
+              {
+                "name": "Work expands to fill the time available."
+              }
+            ]
+          },
+          {
+            "name": "Pareto Principle",
+            "children": [
+              {
+                "name": "80% of effects come from 20% of causes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Simplicity & Design",
+        "children": [
+          {
+            "name": "Tesler's Law / Law of Conservation of Complexity",
+            "children": [
+              {
+                "name": "There's a base level of complexity that can't be reduced."
+              }
+            ]
+          },
+          {
+            "name": "Occam's Razor",
+            "children": [
+              {
+                "name": "Choose the solution with the fewest assumptions."
+              }
+            ]
+          },
+          {
+            "name": "Fitt's Law",
+            "children": [
+              {
+                "name": "Time to acquire a target is based on distance and size."
+              }
+            ]
+          },
+          {
+            "name": "Amara's Law",
+            "children": [
+              {
+                "name": "We overestimate short-term tech effects and underestimate long-term effects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Decision Making",
+        "children": [
+          {
+            "name": "Hick's Law / Hick-Hyman's Law",
+            "children": [
+              {
+                "name": "Decision time increases with more choices."
+              }
+            ]
+          },
+          {
+            "name": "Postel's Law",
+            "children": [
+              {
+                "name": "Be liberal in what you accept, conservative in what you send."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "User Expectations & Behavior",
+        "children": [
+          {
+            "name": "Jacob's Law",
+            "children": [
+              {
+                "name": "Users prefer sites to work like others they know."
+              }
+            ]
+          },
+          {
+            "name": "Hofstadter's Law",
+            "children": [
+              {
+                "name": "Things always take longer than expected."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
